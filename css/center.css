@@ -1,0 +1,12 @@
+.cards-container {
+  display: flex;
+  justify-content: center;
+  width: auto;
+  height: 300px;
+  }
+  
+
+  .center-page-h2 {
+  display: flex;
+  justify-content: center;
+  }

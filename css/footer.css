@@ -1,0 +1,40 @@
+.footer {
+  /* position: relative; */
+  height: 100px;
+  background-color: #2D3039;
+}
+
+.sn-container {
+/* position: absolute; */
+display: flex;
+align-content: center;
+align-content: center;
+justify-content: center;
+height: 50px;
+width: auto;
+padding: 20px;
+}
+
+i {
+  font-size: 150%;
+padding: 20px;
+color: #f7aad9;
+}
+
+i:hover {
+  padding: 20px;
+  color: #67e4e9;
+  transition: 0.9s;
+  }
+
+
+.footer-text {
+  background-color: #2D3039;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.footer-p {
+    color: #DDDFE4;
+  }
